@@ -4,7 +4,7 @@ import { ResultNode } from "../nodes/ResultNode";
 import { ToSeriesNode } from "../nodes/ToSeriesNode";
 import { NPVNode } from "../nodes/NetPresentValueNode";
 import { TypeConstraintNode } from "../nodes/TypeConstraintNode";
-import { DETERMINISTIC_TYPE, PROBABILISTIC_TYPE } from "../common/types";
+import { PROBABILISTIC_TYPE } from "../common/types";
 import { initializeBaklvaState } from "../common/initialize";
 import { NoteNode } from "../nodes/NoteNode";
 

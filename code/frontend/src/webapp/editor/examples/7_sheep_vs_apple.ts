@@ -11,7 +11,7 @@ import {
   addResultNode,
   addTypeConstraintNode
 } from "./common";
-import { DETERMINISTIC_DISTRIBUTION, POSITIVE_NORMAL_DISTRIBUTION } from "../distributions";
+import { POSITIVE_NORMAL_DISTRIBUTION } from "../distributions";
 import { initializeBaklvaState } from "../common/initialize";
 import { NoteNode } from "../nodes/NoteNode";
 

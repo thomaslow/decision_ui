@@ -1,3 +1,5 @@
+"""Test API requests and responses."""
+
 # pylint: disable=redefined-outer-name
 
 import os
