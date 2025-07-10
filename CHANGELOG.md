@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.2.1 - 2025-07-10
+
+New Features
+
+- Change NPV node discount rate input type from deterministic to probabilistic (see #103)
+- Show actual R warning messages instead of generic "There were 50 or more warnings" (see #108)
+
+Fixes
+
+- Fix ChanceEvent node not calculating correct output in frontend (see #101)
+
 ## v0.2.0 - 2025-03-27
 
 New Features
